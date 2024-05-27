@@ -38,7 +38,7 @@ generation_config = {
     "max_output_tokens": 99998,
 }
 
-st.set_page_config(page_title="Gemini Chatbot", page_icon=":gem:")
+st.set_page_config(page_title="Tinker-Bot", page_icon=":gem:")
 
 with st.sidebar:
     st.title("Gemini Setting")
